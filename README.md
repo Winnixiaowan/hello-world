@@ -1,2 +1,5 @@
 # hello-world
-just a repository
+
+Hi!
+
+I am winni. Very happy that today is Friday~~
